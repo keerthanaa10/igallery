@@ -111,10 +111,7 @@ function unDo() {
     imageDiv.innerHTML = originalText;
 }
 ```
-## WEBSITE URL
-```
-https://codepen.io/Harish_-Ammu/pen/bGXVBVW
-```
+
 ## OUTPUT:
 ![alt text]({2A4CDCD7-4778-4019-B872-92D5313854AE}.png)
 ![alt text](image.png)
